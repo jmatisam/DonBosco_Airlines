@@ -59,8 +59,8 @@ function displayFlights(flights) {
                     <h5>Llegada: ${new Date(flight.arrivalTime).toLocaleString()}</h5>
                     <input type="number" id="seats-${flight.id}" placeholder="Número de asientos" min="1" max="${flight.availableSeats}" class="form-control mb-2">
                     <small id="error-msg-${flight.id}" class="text-danger" style="display:none;">Número de asientos no disponibles. Elija una cantidad menor.</small>
-                    <button class="btn btn-primary" onclick="validateSeats(${flight.id}, ${flight.availableSeats}, '${flight.departureTime}')">Reservar</button>
-                </div>
+                    <button class="btn btn-primary" onclick="validateSeats(${flight.id}, ${flight.availableSeats}, '${flight.flightNumber}','${flight.departure}','${flight.destination}','${flight.departureTime}','${flight.arrivalTime}')">Reservar</button>
+                </div>  
             </div>
         `;
 

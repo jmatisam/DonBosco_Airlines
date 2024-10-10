@@ -27,6 +27,7 @@ function authenticateUser(data) {
         if (data.token) {
             // Guardar token en localStorage y redirigir
             localStorage.setItem('jwtToken', data.token);
+            localStorage.setItem('username', name);
             console.log('Token guardado en localStorage:', localStorage.getItem('jwtToken'));
             alert('Login successful');
             window.location.href = "index.html"; // Cambiar redirección según sea necesario
