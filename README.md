@@ -10,9 +10,8 @@
 * **Jose M. Alonso Tirado** [GitHub](https://github.com/jmatisam)
 
 ## Documentation
-![Documentación](assets/imgs/Doc(1).jpg)
+![Logo](assets/imgs/Doc(1).jpg)
 
----
 *  [Canva Documentation](https://www.canva.com/design/DAGRRwTYhYo/pbsLMFyFdP_47cmAtT1z3Q/view?utm_content=DAGRRwTYhYo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ---
