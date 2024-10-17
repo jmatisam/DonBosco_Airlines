@@ -1,6 +1,6 @@
 # DonboscoApp Airline
 
-![Logo](src/main/resources/mini_Logo_F5_d_bosco_airlines.png)
+![Logo](assets/imgs/mini_Logo_F5_d_bosco_airlines.png)
 
 ## Team members (Team 4)
 * **Ana Maria Martin** [GitHub](https://github.com/anamartin99)
