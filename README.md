@@ -10,7 +10,8 @@
 * **Jose M. Alonso Tirado** [GitHub](https://github.com/jmatisam)
 
 ## Documentation
-![Logo](assets/imgs/Doc(1).jpg)
+![Logo](https://github.com/jmatisam/DonBosco_Airlines/blob/main/assets/imgs/Doc.jpg)
+
 
 *  [Canva Documentation](https://www.canva.com/design/DAGRRwTYhYo/pbsLMFyFdP_47cmAtT1z3Q/view?utm_content=DAGRRwTYhYo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
@@ -79,15 +80,16 @@ The **DonboscoApp Airlines** project is an integrated management system for an a
 - **Availability**: Unit and integration tests to guarantee stability in production.
 - **Normative**: No use of Lombok, ensuring code clarity.
 
----
-## Technical Details
-- **ORM**: MySQL data mapping and relationships for efficient structure.
-  ![ORM](src/main/resources/orm.jpg)
+  ## Frontend
+
+ ![Frontend](assets/imgs/Frontend.jpg)
+
+  ## Pruebas Frontend
+ ![Paginas_Frontend](assets/imgs/Paginas.jpg)
 
 
-- **Deployment**: Using Docker for containerisation and deployment on Docker Hub.
-  ![KEY POINTS](src/main/resources/Docker.jpg)
-
+### Presentation
+- Summary of the project in Canva: [View presentation](https://www.canva.com/design/DAGSO3gUpJk/bfFAwv5H2VinnjPdHvmzkQ/view?utm_content=DAGSO3gUpJk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ---
 
@@ -110,11 +112,7 @@ The **DonboscoApp Airlines** project is an integrated management system for an a
 ### Frontend
 - [Frontend Repository](https://github.com/jmatisam/DonBosco_Airlines)
   
-  ![Frontend](src/main/resources/Frontend.jpg)
-
-### Presentation
-- Summary of the project in Canva: [View presentation](https://www.canva.com/design/DAGSO3gUpJk/bfFAwv5H2VinnjPdHvmzkQ/view?utm_content=DAGSO3gUpJk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
+ 
 
 ---
 
