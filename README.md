@@ -80,6 +80,7 @@ The **DonboscoApp Airlines** project is an integrated management system for an a
 - **Availability**: Unit and integration tests to guarantee stability in production.
 - **Normative**: No use of Lombok, ensuring code clarity.
 
+## technical details
   ## Frontend
 
  ![Frontend](assets/imgs/Frontend.jpg)
@@ -100,17 +101,19 @@ The **DonboscoApp Airlines** project is an integrated management system for an a
 
 ---
 
+
+
 ## Monitoring
 
 - Integration of monitoring tools in Docker for performance analysis.
-![KEY POINTS](src/main/resources/Docker_Grafana.jpg)
+![Grafana](https://github.com/jmatisam/DonboscoApp/blob/main/src/main/resources/Docker_Grafana.jpg)
 
 ---
 
 ## Extra Resources
 
 ### Backend
-- (https://github.com/jmatisam/DonboscoApp)
+* [Acceso al Back](https://github.com/jmatisam/DonboscoApp)
   
  
 
