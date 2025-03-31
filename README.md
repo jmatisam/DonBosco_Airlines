@@ -109,8 +109,8 @@ The **DonboscoApp Airlines** project is an integrated management system for an a
 
 ## Extra Resources
 
-### Frontend
-- [Frontend Repository](https://github.com/jmatisam/DonBosco_Airlines)
+### Backend
+- [Frontend Repository]([https://github.com/jmatisam/DonBosco_Airlines](https://github.com/jmatisam/DonboscoApp))
   
  
 
